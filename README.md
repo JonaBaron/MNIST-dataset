@@ -37,21 +37,6 @@ To classify digits (0–9) from grayscale images using a **logistic regression m
 * **Confusion Matrix** – Displayed using both `matplotlib` and `seaborn`.
 * **Classification Report** – Shows precision, recall, and F1-score per digit.
 
-## 🧪 How to Run
-
-1. Make sure you have Python 3 installed.
-2. Install required libraries (if not already installed):
-
-```bash
-pip install numpy matplotlib seaborn scikit-learn keras
-```
-
-3. Run the script:
-
-```bash
-python project1_comp472.py
-```
-
 ## 📈 Performance
 
 The model’s accuracy is assessed using:
